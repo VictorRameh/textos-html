@@ -1,4 +1,19 @@
 .padrao{
-    background-color:darkgreen;
+    background-color:darkkhaki;
     color:white;
+    border: 2px double black;
+}
+
+.titulo{
+    background-color:black;
+    color:white;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fundo{
+    background-color:brown;
+}
+.textocomimagem{
+    background-image: url(Logo.JPEG);
 }
